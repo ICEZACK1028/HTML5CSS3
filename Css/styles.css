@@ -335,8 +335,8 @@ footer{
     padding: 20px;
     line-height: 2.0;
     background-color: white;
-     margin-left: 300px;
-    margin-right: 300px;
+    width: 40%;
+    margin-left: 50px;
     margin-top: 20px;
     margin-bottom: 600px; 
 }
@@ -354,6 +354,12 @@ footer{
 .Contactanos-form a:hover{
     background-color: #5B9AD9;
     cursor: pointer;
+}
+
+#imagen{
+    float: right;
+    margin-top: -4%;
+    margin-right: -7%;
 }
 
 /* ---------------------------------Carrito de compras--------------------------------- */
